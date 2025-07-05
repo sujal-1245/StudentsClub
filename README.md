@@ -18,20 +18,20 @@
 
 ### 🏠 Home + Hero Section
 
-![Home](./public/screens/home.jpg)
+![image](https://github.com/user-attachments/assets/0babb307-9149-4e23-8bdf-1bf4056955df)
 
-### 👥 Team Members Section
-
-![Team](./public/screens/members.jpg)
 
 ### 🎉 Events & Gallery Pages
 
-![Events](./public/screens/events.jpg)
-![Gallery](./public/screens/gallery.jpg)
+![image](https://github.com/user-attachments/assets/70556b6e-8458-4b23-9230-9892d53b1abb)
+
+![image](https://github.com/user-attachments/assets/6e1f3faf-2104-4584-be89-28c25f607058)
+
 
 ### 📬 Contact Page
 
-![Contact](./public/screens/contact.jpg)
+![image](https://github.com/user-attachments/assets/f67f11f9-faf2-4535-99b9-9395b7887283)
+
 
 ---
 
