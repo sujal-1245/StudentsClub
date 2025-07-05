@@ -1,13 +1,115 @@
-# React + Vite
+<h1 align="center">🎓 StudentsClub — Digital Platform for College Clubs</h1>
+<p align="center">
+  A dynamic, responsive, and elegant platform built with React & TailwindCSS to showcase events, talent, and foster campus-wide student collaboration.
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <a href="https://studentsclub.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-00b894?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/sujal-1245/StudentsClub" target="_blank">
+    <img src="https://img.shields.io/github/stars/sujal-1245/StudentsClub?style=for-the-badge&logo=github" alt="GitHub Stars" />
+  </a>
+</p>
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🖼️ Preview
 
-## Expanding the ESLint configuration
+### 🏠 Home + Hero Section
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# StudentsClub
+![Home](./public/screens/home.jpg)
+
+### 👥 Team Members Section
+
+![Team](./public/screens/members.jpg)
+
+### 🎉 Events & Gallery Pages
+
+![Events](./public/screens/events.jpg)
+![Gallery](./public/screens/gallery.jpg)
+
+### 📬 Contact Page
+
+![Contact](./public/screens/contact.jpg)
+
+---
+
+## ✨ What Makes It Special?
+
+* 🧑‍🎓 **Student-Centric**: Designed for real student clubs to promote events and talent
+* 🌆 **Gallery & Carousel**: Stunning horizontal scrolling gallery & animated slider
+* 🧑‍🤝‍🧑 **Team Page**: Beautiful member cards with hover interactions
+* 📞 **Contact Page**: Simple contact form to reach club organizers
+* 🌗 **Modern Design**: Custom color palettes, glassy sections, and dark mode ready
+* 🧩 **Modular Code**: Scalable and reusable components built with care
+
+---
+
+## 🧱 Tech Stack
+
+| Category    | Tools Used                    |
+| ----------- | ----------------------------- |
+| ⚛️ Frontend | React.js, Tailwind CSS        |
+| 🖼️ UI/UX   | Framer Motion, Heroicons      |
+| ☁️ Hosting  | Vercel                        |
+| 🎨 Design   | Custom CSS animations, themes |
+
+---
+
+## 📁 Project Structure
+
+```bash
+StudentsClub/
+│
+├── public/
+│   └── screens/              # Images for README previews
+│
+├── src/
+│   ├── assets/               # Logos, icons, gallery images
+│   ├── components/           # Navbar, Footer, Cards, etc.
+│   ├── pages/                # Home, About, Events, Members, Gallery, Contact
+│   ├── styles/               # Tailwind & custom styles
+│   └── data/                 # Team members, event data
+```
+
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/sujal-1245/StudentsClub.git
+cd StudentsClub
+npm install
+npm run dev
+```
+
+---
+
+## 🌟 Motivation
+
+Most college clubs don’t have a digital footprint, limiting their ability to engage students and highlight achievements.
+**StudentsClub** bridges that gap — giving student communities a vibrant, all-in-one digital space.
+
+---
+
+## 🙋‍♂️ About Me
+
+I'm **Sujal Bhagat**, a full-stack developer passionate about creating experiences that are as useful as they are beautiful.
+
+* 🌍 [Portfolio Website](https://sujal-bhagat.vercel.app)
+* 🧑‍💻 [GitHub](https://github.com/sujal-1245)
+* 💼 [LinkedIn](https://linkedin.com/in/sujal-bhagat-sdb1245)
+
+---
+
+## 🫶 Show Some Love
+
+If this helped you, inspired you, or made you smile — drop a ⭐️ and connect with me! Let's build together 🚀
+
+---
+
+## 📜 License
+
+This project is open-source under the [MIT License](LICENSE).
+
